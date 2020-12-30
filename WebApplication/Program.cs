@@ -21,4 +21,4 @@ namespace WebApplication
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
     }
-}
+} 
